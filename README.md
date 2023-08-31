@@ -1,15 +1,14 @@
-![BRI API](https://developers.bri.co.id/themes/briapi_v20/logo.svg)
+![BRI API](./images/logo.svg)
 
-# BRI Inquiry API in Python
+# BRI Inquiry API in Golang
 
 Welcome to the BRI Inquiry API workspace.
-This workspace contains the Python implementation of the BRI Inquiry API.
+This workspace contains the Golang implementation of the BRI Inquiry API.
 
 ## Quick Start
 
-1. Install the dependencies using `pip install -r requirements.txt`
-2. Run the application using `python3 main.py` from the terminal
-3. Or, run the application using VSCode's debugger feature
+1. Run the application using `go run main.go` from the terminal
+2. Or, run the application using VSCode's debugger feature
 
 ## Configuration
 
